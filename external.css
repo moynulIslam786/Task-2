@@ -1,0 +1,29 @@
+.to{
+    height: 200px;
+    /* background-image: url('travelBlog.jpg'); */
+    background-image: url('../images/download.png');
+    /* background-repeat: repeat-x; */
+    /* background-size: cover; */
+    background-size: contain;
+}
+h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+}
+
+#second{
+    display: none;
+}
+
+
+.lorem{
+    margin: 10px;
+    margin-bottom: 20px;
+    border: 10px solid rebeccapurple;
+    box-shadow: 10px 10px 10px;
+
+}
+#amet{
+    border: 2px solid red;
+}

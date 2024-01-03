@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0;
+
+}
+#is{
+    text-align: center;
+    font-size: larger;
+    margin: 5px;
+    padding: 5px;
+}
+
+.lorem{
+    text-align: center;
+    font-size: larger;
+    margin: 5px;
+    padding: 5px;
+    background-color: aquamarine;
+}
+
+#div{
+    text-align: center;
+    border: 10px solid red;
+
+    font-size: larger;
+    margin: 5px solid ;
+    padding: 5px;
+    background-color: beige;
+}
